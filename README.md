@@ -42,11 +42,11 @@ Em breve
 <!--  card -->
 <br>
 <a href=" " target="_blank">
-   <img align="left" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=TemistoclesZwang&layout=compactshow_icons=true&theme=outrun">
+   <img align="left" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=TemistoclesZwang&layout=compactshow_icons=true&theme=outrun&langs_count=3"        (https://github.com/TemistoclesZwang/github-readme-stats)
+    
 <br/>
 
-<!-- card antigo [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TemistoclesZwang&layout=compactshow_icons=true&theme=outrun) -->
-<!-- ](https://github.com/TemistoclesZwang/github-readme-stats) -->
+<!-- card antigo [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TemistoclesZwang&layout=compactshow_icons=true&theme=outrun)](https://github.com/TemistoclesZwang/github-readme-stats) -->
 
 <!-- more pins -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
