@@ -1,8 +1,12 @@
 ## I'am Themistocles🕺
-    A merge of Brazilian 🇧🇷, German 🇩🇪 and Luxembourgish 🇱🇺.
+A merge of Brazilian 🇧🇷, German 🇩🇪 and Luxembourgish 🇱🇺.
 
 I currently participate in a Scientific Initiation Project at my university (IFPI).  
 **Which aims to help people with speech difficulties through technology. 🌈**
+
+Technologies used in this project: 
+
+    machine learning, speech recognition,shell script,python,github,scrum.
 
 > *I love helping my community and volunteer work ❤️*
 
