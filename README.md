@@ -4,7 +4,7 @@ A merge of Brazilian 🇧🇷, German 🇩🇪 and Luxembourgish 🇱🇺.
 I currently participate in a Scientific Initiation Project at my university (IFPI).  
 **Which aims to help people with speech difficulties through technology. 🌈**
 
-Technologies used in this project: 
+Technologies used in the current project I participate: 
 
     machine learning, speech recognition,shell script,python,github,scrum.
 
