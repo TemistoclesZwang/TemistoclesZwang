@@ -37,11 +37,11 @@ Technologies used in the current project I participate:
 Em breve
 <!-- Medium -->
 <br>
-<a href=" " target="_blank">
+<a href="https://medium.com/@temis2st" target="_blank">
    <img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
     
 <br/>
-Em breve
+
 
 <!--  card -->
 <br>
