@@ -31,10 +31,10 @@ Technologies used in the current project I participate:
 
 <!-- HackerRank -->
 <br>
-<a href=" " target="_blank">
+<a href="https://www.hackerrank.com/temis2st" target="_blank">
    <img align="left" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
 <br/>
-Em breve
+
 <!-- Medium -->
 <br>
 <a href="https://medium.com/@temis2st" target="_blank">
