@@ -6,7 +6,7 @@ I currently participate in a Scientific Initiation Project at my university (IFP
 
 Technologies used in the current project I participate: 
 
-    machine learning, speech recognition,shell script,python,github,scrum.
+    NLP (natural language processing), speech recognition,shell script,python,github,scrum.
 
 > *I love helping my community and volunteer work ❤️*
 
