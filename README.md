@@ -46,7 +46,7 @@ Technologies used in the current project I participate:
 <!--  card -->
 <br>
 <a href=" " target="_blank">
-   <img align="left" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=TemistoclesZwang&layout=compactshow_icons=true&theme=outrun&langs_count=3"        (https://github.com/TemistoclesZwang/github-readme-stats)
+   <img align="left" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=TemistoclesZwang&layout=compactshow_icons=true&theme=outrun&langs_count=5"        (https://github.com/TemistoclesZwang/github-readme-stats)
     
 <br/>
 
