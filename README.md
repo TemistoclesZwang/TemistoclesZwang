@@ -1,5 +1,13 @@
+
 ## I'am Themistocles🕺
 A merge of Brazilian 🇧🇷, German 🇩🇪 and Luxembourgish 🇱🇺.
+
+> *I love helping my community and volunteer work ❤️*
+
+
+*Now I'm learning Flutter*
+
+---
 
 I currently participate in a Scientific Initiation Project at my university (IFPI).  
 **Which aims to help people with speech difficulties through technology. 🌈**
@@ -7,8 +15,16 @@ I currently participate in a Scientific Initiation Project at my university (IFP
 Technologies used in the current project I participate: 
 
     NLP (natural language processing), speech recognition,shell script,python,github,scrum.
+---
+Check out my Medium and social networks:
 
-> *I love helping my community and volunteer work ❤️*
+<!-- Medium -->
+<br>
+<a href="https://medium.com/@temis2st" target="_blank">
+   <img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+    
+<br/>
+
 
 <!-- linkedin -->
 <br>
@@ -35,12 +51,6 @@ Technologies used in the current project I participate:
    <img align="left" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
 <br/>
 
-<!-- Medium -->
-<br>
-<a href="https://medium.com/@temis2st" target="_blank">
-   <img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-    
-<br/>
 
 
 <!--  card -->
