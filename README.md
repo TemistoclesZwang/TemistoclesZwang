@@ -3,9 +3,6 @@
 
 > *I love helping my community and volunteer work ❤️*
 
-
-*Now I'm learning Flutter*
-
 ---
 
 I currently participate in a Scientific Initiation Project at my university (IFPI).  
