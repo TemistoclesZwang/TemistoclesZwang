@@ -1,6 +1,5 @@
 
 ## I'am Themistocles🕺
-A merge of Brazilian 🇧🇷, German 🇩🇪 and Luxembourgish 🇱🇺.
 
 > *I love helping my community and volunteer work ❤️*
 
